@@ -1,17 +1,27 @@
-# cyberlog_10
+<img width="391" height="785" alt="image" src="https://github.com/user-attachments/assets/4d6983d3-2e32-48c7-b200-b385777dab6d" />
 
-A new Flutter project.
+# CyberLog 10 🔐
 
-## Getting Started
+CyberLog 10 is a Flutter-based mobile application that demonstrates **permission-based features** with a modern **cyber-style UI**.
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 📷 Camera access using real device camera  
+- 📁 Storage permission (Android 11–14 compatible)  
+- 🌐 Internet connectivity check  
+- 🔵 Dark theme with glowing blue cyber UI  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
+- Flutter (Dart)
+- permission_handler
+- image_picker
+- HTTP package
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📱 Platform
+- Android (Tested on real device)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Purpose
+This project is built for **learning and demonstration** of Android permissions in Flutter and can be used as a **college mini-project**.
+
+---
+
+👨‍💻 Developed by **Param Bhagat**
